@@ -23,3 +23,10 @@ This is a beginner-friendly data engineering project where I build an end-to-end
    ```bash
    git clone https://github.com/YOUR_USERNAME/weather-data-pipeline.git
    cd weather-data-pipeline
+
+
+## 📊 BigQuery Output
+
+Data is uploaded to Google BigQuery:
+- Dataset: `weather_data`
+- Table: `daily_weather`
