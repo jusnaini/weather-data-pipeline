@@ -1,1 +1,6 @@
 .env
+weather-uploader-key.json
+gcp
+load.py
+notes
+weather_data_2025*
